@@ -22,5 +22,12 @@ ROUANET Clément
   
 <br>
 
+3. Dossier ***Power BI*** :
+   - ***Database_ECommerce.pbids***: données du datawarehouse (base de données SQL) regroupant les données nettoyées et les prédictions de prix permettant de réaliser le tableau de bord Power BI,
+   - ***Rapport PowerBI*** : rapport PowerBI permettant de répondre à la problématique.
+  
+<br>
 
+4. Dossier ***SQL Code*** :
+   - ***
    
